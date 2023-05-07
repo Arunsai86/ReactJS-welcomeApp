@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+}
+.container {
+  background-color: #1e293b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  color: #f0bb03;
+  font-family: 'Bree Serif';
+  font-size: 50px;
+}
+p {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  margin-bottom: 10px;
+}
+.button {
+  height: 30px;
+  width: 100px;
+  border: none;
+  border-radius: 5px;
+  color: #1e293b;
+  background-color: #ffffff;
+  font-family: 'Bree Serif';
+}
